@@ -6,11 +6,16 @@ weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
+Kai Massage offers single and combined sessions of various massaging methodssuch as :
 
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+- Swedish Massage
+- Deep Tissue Massage
+- Sports Massage
+- Therapeutic Massage
+- Shiatsu
+- Pregnancy Massage
+- Canine Massage
+
 
 That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
 
