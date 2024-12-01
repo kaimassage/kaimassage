@@ -48,7 +48,7 @@ You will likely have to pay money for this.
 
 I can raise your table culture!
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+![Let us get started on a clean slate](images/bg_header_0005.jpg)
 
 Want to learn more about my services? See [dedicated page](services) with more details.
 [font-awesome-icons]: https://fontawesome.com/icons

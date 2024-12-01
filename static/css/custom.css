@@ -1,0 +1,24 @@
+:root {
+    /* see variables.scss for more variables*/
+
+    /*
+    --section-light-text-color: #3a4145!important;
+    --section-light-bg-color: #ffdb8c!important;
+    --section-dark-bg-color: #035e00!important;
+    */
+
+    --cover-text-color: #f8f8ff!important;
+    --cover-title-text-shadow: #000000!important;
+    --highlight-inverse-contrast: #000000!important;
+    --highlight: #000000!important;
+
+    --section-light-text-color: #f8f8ff!important;
+    --section-light-bg-color: #0980af!important;
+    --section-dark-text-color: #052c3b!important;
+    --section-dark-bg-color: #ffdb8c !important;
+
+     /* define list element for unnumbered lists, leave empty for default list element */
+     /* fa-asterisk is the default icon if this variable definition is missing completely */
+     --ul-li-icon: fa-dashcube;     /* this sets fa-dashcube as list icon */
+     --ul-li-icon: ;                /* this sets the default html list icon */
+}

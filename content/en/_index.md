@@ -3,14 +3,14 @@
 header_image: "images/cover-image.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
-header_use_video: false
+header_use_video: true
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/chef-hat.png"
+header_logo: "images/icon_palmtree128.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Kai Massage"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+header_subheadline: "Swedish, Therapeutic, and Sports Massage"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
