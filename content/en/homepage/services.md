@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-Kai Massage offers single and combined sessions of various massaging methodssuch as :
+Kai Massage offers single and combined sessions of various massaging methods such as :
 
 - Swedish Massage
 - Deep Tissue Massage
@@ -17,13 +17,25 @@ Kai Massage offers single and combined sessions of various massaging methodssuch
 - Canine Massage
 
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+
+
 
 ---
 
-### Icons
+### Menu & Price
 
-This theme includes the full set of [Font Awesome v6.6.0 icons](https://fontawesome.com/icons). Use the `{{</* icon */>}}` [shortcode](https://gohugo.io/content-management/shortcodes/) with the respective `name` to use an icon directly in your `.md` files. For example "{{< icon name="envelope" >}}":
+Mobile Massage at Your Home or Office * Orange County Only
+  60 minutes $130
+  90 minutes $180
+
+Package Deal & Special Offer
+* $440 for 4 x 60 minutes Signature Massages
+* $640 for 4 x 90 minutes Signature Massages
+
+
+
+
+ theme includes the full set of [Font Awesome v6.6.0 icons](https://fontawesome.com/icons). Use the `{{</* icon */>}}` [shortcode](https://gohugo.io/content-management/shortcodes/) with the respective `name` to use an icon directly in your `.md` files. For example "{{< icon name="envelope" >}}":
 
 ```html
 {{</* icon name="envelope" */>}}
@@ -44,12 +56,17 @@ If you want to use these branded icons in your contact list, use the full class 
   icon = "fa-brands fa-github"
 ```
 
-### Nutrition Coaching
+### Location & Hours
+Your Home or Office * Orange County Only
+Monday      9:00 am - 1:00 pm
+Tuesday     Closed
+Wednesday   10:00 am - 3:00 pm
+Thursday    Closed
+Friday      Closed
+Saturday    1:00 pm - 7:00 pm
+Sunday      3:00 pm - 7:00 pm
 
-This is not an easy task.
-You will likely have to pay money for this.
-
-### Chef Consulting
+### 
 
 I can raise your table culture!
 
